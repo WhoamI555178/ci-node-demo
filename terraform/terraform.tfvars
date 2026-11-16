@@ -1,0 +1,5 @@
+aws_region       = "us-east-1"
+ami_id           = "ami-021bf0bba3a411792"
+instance_type    = "t2.micro"
+key_name         = "devops-key"
+private_key_path = "./devops-key.pem"
